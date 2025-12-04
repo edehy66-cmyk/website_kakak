@@ -83,14 +83,6 @@ body {
     border-radius: 10px;
 }
 
-.card:hover {
-    transform: scale(1.03);
-}
-
-.ig {
-    font-size: 36px;
-    color: #2949d6;
-}
 
 .contact-section {
     padding: 50px 20px;
